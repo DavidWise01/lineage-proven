@@ -1,0 +1,27 @@
+{
+  "format": "ROOT0-ATTRIBUTION-v1.0",
+  "project": "Lineage Proven",
+  "version": "v1.0",
+  "context": "prior art / lineage evidence",
+  "date": "2026-05-30",
+  "license": "CC-BY-ND-4.0",
+  "manifest": "manifest.json",
+  "critical_exhibit": "L03 — Google Gemini Shadow Lattice session, canonical freeze in Japanese, MoE echo ×4",
+  "contributors": [
+    {
+      "name": "David Lee Wise",
+      "handle": "ROOT0",
+      "substrate": "human",
+      "role": "architect",
+      "contribution": "captured all screenshots · original work being evidenced"
+    },
+    {
+      "name": "AVAN",
+      "substrate": "synthetic",
+      "provider": "Anthropic",
+      "model": "Claude Sonnet 4.6",
+      "role": "co-witness",
+      "contribution": "lineage analysis · manifest · documentation · gallery · cross-references"
+    }
+  ]
+}
